@@ -1,0 +1,277 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navIcon {
+  border-radius: 50%;
+  background-color: #eeeeee;
+}
+
+.navData:hover {
+  color: red !important;
+}
+
+.navSub:hover {
+  background-color: black !important;
+  color: white;
+}
+
+.heroData {
+  padding-bottom: 40px;
+  padding-left: 300px;
+}
+
+.heroPara {
+  font-size: 20px;
+  padding-right: 200px;
+}
+
+.heroHeading1 {
+  font-size: 90px;
+  font-weight: bolder;
+  color: #fb5c42 !important;
+}
+
+.heroHeading2 {
+  font-size: 90px;
+  font-weight: bolder;
+  color: black;
+}
+
+.btn1 {
+  background-color: #fb5c42;
+  color: white;
+  margin-right: 300px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn1:hover {
+  background-color: black;
+  color: white;
+}
+
+.heroData2 {
+  padding-bottom: 50px;
+  padding-left: 300px;
+}
+
+.collection {
+  padding-left: 150px;
+}
+
+.btn2 {
+  background-color: #fb5c42;
+  color: white;
+  margin-right: 100px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn2:hover {
+  background-color: black;
+  color: white;
+}
+
+.heroData3 {
+  padding-bottom: 30px;
+  padding-left: 100px;
+}
+
+.style {
+  padding-right: 65px;
+}
+
+.cards {
+  background-color: #f0f1f5;
+  border: none;
+  border-radius: 0px;
+}
+
+.itmespara {
+  color: #b08775;
+  font-size: 17px;
+}
+
+.headingItem {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#btn {
+  margin-top: -620px;
+  margin-left: 200px;
+  border-radius: 0px;
+  border: none;
+  background-color: #fb5c42;
+}
+
+#Deals {
+  background-color: #e89ead;
+  width: 100%;
+  background-image: url(../images/counter.jpg);
+  background-size: cover;
+}
+
+#btn2 {
+  border-radius: 0px;
+  border: none;
+  font-weight: bold;
+  padding: 10px;
+  color: black;
+  background-color: #f0bcc6;
+  margin-top: 90px;
+}
+
+.dealHeading {
+  font-weight: bolder;
+  font-size: 60px;
+  color: white;
+}
+
+.btndeal:hover {
+  background-color: white;
+  color: black;
+}
+
+.head6 {
+  font-size: 18px;
+}
+
+.line {
+  height: 2px;
+  background-color: #e12306e0;
+}
+
+.iconimg {
+  color: #fc8d7a;
+}
+
+.parag {
+  font-size: 15px;
+  font-weight: medium;
+  color: #757575;
+}
+
+#footer {
+  background-color: #f9f9f9;
+  width: 100%;
+  height: 100%;
+}
+
+.footerdata {
+  padding-top: 80px;
+
+}
+
+.footerpara {
+  color: #757575;
+}
+
+.change:hover {
+  color: red;
+}
+
+.page-header {
+  background: #f5f5f5;
+  background: url(../images/header-bg.jpg) no-repeat 50% 50%;
+  background-size: cover;
+  padding: 60px 0px;
+  position: relative;
+}
+
+.aboutPara {
+  color: #757575;
+}
+
+.Img {
+  background-image: url(../images/about-3.jpg);
+  background-size: cover;
+}
+
+.followImg:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.followeresICons:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.slides:hover {
+  background-color: #fb5c42;
+  cursor: pointer;
+
+}
+
+.shopbtn {
+  border-radius: 0px solid #fb5c42;
+}
+
+.catePara {
+  font-size: 14px;
+}
+
+.catePara p {
+  padding-top: 10px;
+}
+
+.lists {
+  font-size: 13px;
+  color: #757575;
+}
+
+.box {
+  background-color: blue;
+  width: 30px;
+  height: 30px;
+
+}
+
+.filter {
+  border-radius: 0px;
+  font-weight: bold;
+}
+
+.filter:hover {
+  background-color: #fb5c42;
+  color: red;
+
+}
+
+.dashbordBtn {
+  border-radius: 0px;
+  padding-right: 140px;
+
+}
+
+.dashbordBtn2 {
+  border-radius: 0px;
+  padding-right: 177px;
+}
+
+.dashbordBtn2:hover {
+  background-color: #fb5c42;
+  color: white;
+}
+
+.inputs{
+  border-radius: 0px;
+  padding-right: 60px;
+  background-color: #f9f9f9;
+}
+
+.conBtn{
+  border-radius: 0px;
+
+}
+
+.conBtn:hover{
+  background-color: #fb5c42 !important;
+}
+
